@@ -3,5 +3,3 @@ streamlit
 plotly
 sklearn
 python-dotenv
-Pickle
-Pillow

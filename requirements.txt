@@ -2,5 +2,6 @@ pandas
 streamlit
 plotly
 sklearn
-PIL
 python-dotenv
+Pickle
+Pillow

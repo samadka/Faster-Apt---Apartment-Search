@@ -1,0 +1,7 @@
+pandas
+streamlit
+pickle
+plotly
+sklearn
+PIL
+python-dotenv

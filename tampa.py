@@ -3,8 +3,7 @@ import streamlit as st
 import pickle
 
 
-apartments = pickle.load(open('df2.pd', 'rb'))
-tampa = apartments[apartments.city=='Tampa']
+tampa = pickle.load(open('tampa.pd', 'rb'))
 apartments = tampa.name_x.unique()
 apartments = sorted([i for i in apartments])
 

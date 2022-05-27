@@ -3,4 +3,4 @@ streamlit
 plotly
 sklearn
 python-dotenv
-typing-extensions
+typing_extensions

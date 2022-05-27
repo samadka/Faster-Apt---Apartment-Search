@@ -10,9 +10,9 @@ apartments = sorted([i for i in apartments])
 st.write("""
 ## Faster  Apt - Find Your Dream Apartment in Tampa, Florida!""")
 
-#from PIL import Image
-#image = Image.open('tampa_img.jpeg')
-#st.image(image, width=750)
+from PIL import Image
+image = Image.open('tampa_img.jpeg')
+st.image(image, width=750)
 
 
 st.sidebar.header('SEARCH FOR APARTMENTS:')
